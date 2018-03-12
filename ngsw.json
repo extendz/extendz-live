@@ -9,9 +9,9 @@
       "urls": [
         "https://extendz.github.io/extendz-live/favicon.ico",
         "https://extendz.github.io/extendz-live/index.html",
-        "https://extendz.github.io/extendz-live/0.df74b07fc98db13bea96.chunk.js",
-        "https://extendz.github.io/extendz-live/1.dd4b6b53f79e395d5a26.chunk.js",
-        "https://extendz.github.io/extendz-live/2.0f94c8974809e5a40ffb.chunk.js",
+        "https://extendz.github.io/extendz-live/0.72a00a56cafeb71f0ace.chunk.js",
+        "https://extendz.github.io/extendz-live/1.b3d618a7ee06f90a3935.chunk.js",
+        "https://extendz.github.io/extendz-live/2.b119c0da40496364152d.chunk.js",
         "https://extendz.github.io/extendz-live/3.02f83c3a5d9f20c3b692.chunk.js",
         "https://extendz.github.io/extendz-live/4.d2510b90bb36f82fbb55.chunk.js",
         "https://extendz.github.io/extendz-live/5.d3383ed3116074ded888.chunk.js",
@@ -19,8 +19,8 @@
         "https://extendz.github.io/extendz-live/7.97d0d6999a9d0b322fe9.chunk.js",
         "https://extendz.github.io/extendz-live/8.2292c73f8d0d5e5cc0b5.chunk.js",
         "https://extendz.github.io/extendz-live/9.b12d3e7f45462ad8b6e5.chunk.js",
-        "https://extendz.github.io/extendz-live/inline.5ad6a6efa8d33648bbe8.bundle.js",
-        "https://extendz.github.io/extendz-live/main.804d5369f517da3099e5.bundle.js",
+        "https://extendz.github.io/extendz-live/inline.e0f14669b424f589cc5b.bundle.js",
+        "https://extendz.github.io/extendz-live/main.61316f662333a8ecc2f2.bundle.js",
         "https://extendz.github.io/extendz-live/polyfills.0d987108e1731e744303.bundle.js",
         "https://extendz.github.io/extendz-live/styles.7b7245de4698762c9a53.bundle.css"
       ],
@@ -51,11 +51,11 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://extendz.github.io/extendz-live/0.df74b07fc98db13bea96.chunk.js": "1a3e20d7a21f921c2720f4d5e8769dbed3418bb4",
+    "https://extendz.github.io/extendz-live/0.72a00a56cafeb71f0ace.chunk.js": "c8ab34c4f4881c4518e43ba2d64c5f01254f090d",
     "https://extendz.github.io/extendz-live/assets/img/bg.jpg": "004d936148b9ee4b61153e7d6517d16c4c5e8113",
-    "https://extendz.github.io/extendz-live/1.dd4b6b53f79e395d5a26.chunk.js": "cbe54c3c5f0b32bb75f62c75956747d46a2fe987",
+    "https://extendz.github.io/extendz-live/1.b3d618a7ee06f90a3935.chunk.js": "86e4b5af00a99c3b42183617b0aa27855670531c",
     "https://extendz.github.io/extendz-live/assets/img/demo.png": "130728a2861b38f99c9f284c89a7c13ec309b932",
-    "https://extendz.github.io/extendz-live/2.0f94c8974809e5a40ffb.chunk.js": "f6371a2a8ce66a191941c4d6ee3da151889d4a20",
+    "https://extendz.github.io/extendz-live/2.b119c0da40496364152d.chunk.js": "494ce2569369bfcaf234865770e114a90394663e",
     "https://extendz.github.io/extendz-live/assets/img/logo.png": "b7ebeafd2b8b206168a1ad12292b6fdfc4e9c524",
     "https://extendz.github.io/extendz-live/3.02f83c3a5d9f20c3b692.chunk.js": "f41494837e3899c5adb6237c295568916d489a10",
     "https://extendz.github.io/extendz-live/assets/img/icons/icon-128x128.png": "3c445e48ef024514a64ca38f0eb7741e0eab15f6",
@@ -71,15 +71,15 @@
     "https://extendz.github.io/extendz-live/assets/img/icons/icon-512x512.png": "bd939cfd4da26b881da46c9f7aded6f1ca65a2a5",
     "https://extendz.github.io/extendz-live/9.b12d3e7f45462ad8b6e5.chunk.js": "b967bc3995fb2daa2ddc493aafae16259dba457d",
     "https://extendz.github.io/extendz-live/assets/img/icons/icon-72x72.png": "cd957c3177256ee6ca812f77c9bf22712b7558ce",
-    "https://extendz.github.io/extendz-live/inline.5ad6a6efa8d33648bbe8.bundle.js": "5ca57065eb769b5eed3e5c7f5f45b29137e0205d",
+    "https://extendz.github.io/extendz-live/inline.e0f14669b424f589cc5b.bundle.js": "d5bc99dd0900659706e255334c13d4c500f2389f",
     "https://extendz.github.io/extendz-live/assets/img/icons/icon-96x96.png": "f8f8b44baaad09ca06f261803f9780960a37ab03",
-    "https://extendz.github.io/extendz-live/main.804d5369f517da3099e5.bundle.js": "cc0cca480dfe5f5bcd864bc09f6e1b03748df8f1",
+    "https://extendz.github.io/extendz-live/main.61316f662333a8ecc2f2.bundle.js": "c870ef3eaee9554a8afc07eb4a29f3c9d0b5ebf1",
     "https://extendz.github.io/extendz-live/assets/svg/api-icons.svg": "5fa34dfeb226ad19ac70aff46d61df5bce21492a",
     "https://extendz.github.io/extendz-live/polyfills.0d987108e1731e744303.bundle.js": "876ec02c48e1d7a4d0aa16ec0f9bf3d2100128dd",
     "https://extendz.github.io/extendz-live/assets/svg/icons.svg": "fea4c52fb1c45129606f4e9ad13ba6917625b782",
     "https://extendz.github.io/extendz-live/styles.7b7245de4698762c9a53.bundle.css": "4dae6c9173bc939d6fa4b8e256e79acc93af9131",
     "https://extendz.github.io/extendz-live/assets/svg/logo.svg": "3aea6e70f02992e49255ca08940e6ea10c5ea546",
     "https://extendz.github.io/extendz-live/favicon.ico": "a85565d98dbe90c576d163262519f41bc1187be2",
-    "https://extendz.github.io/extendz-live/index.html": "56bebe2368811233b60e62cd79e46cd494a9a2b5"
+    "https://extendz.github.io/extendz-live/index.html": "496ea530714a1c6108b9dd755e8373e2d02b3468"
   }
 }
